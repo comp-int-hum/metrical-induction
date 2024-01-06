@@ -1,0 +1,10 @@
+0 1 Feet --> Foot Feet
+0 1 Feet --> Foot
+Foot --> Single
+Foot --> Double
+Foot --> Triple
+0 1 Single --> Mark
+0 1 Double --> Mark Mark
+0 1 Triple --> Mark Mark Mark
+0 1 Mark --> Stress
+0 1 Mark --> Unstress
